@@ -1,4 +1,6 @@
 import { importedEffectsList } from "../import/effectsList.js";
+import { effectsList } from "../effectsConfig.js";
+
 import {
   getSelectedTechnology,
   getSelectedCategory,
